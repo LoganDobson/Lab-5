@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Figtree&display=swap');
+
+
+
+header {
+    font-family: 'Arvo', serif;
+    font-size: 24pt;
+    text-align: center;
+    
+}
+h1{
+    color: deepskyblue;
+}
+div{
+    width: 80%;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 25px;
+    
+
+}
+body{
+    font-family: 'Figtree', sans-serif;
+}
+
+section:nth-of-type(2){
+    color: darkslategrey;
+}
+
+section:nth-of-type(4){
+    color: darkslategrey;
+}
+section:nth-of-type(1){
+   background-color: blanchedalmond;
+}
+section:nth-of-type(3){
+    background-color: blanchedalmond;
+}
+img{
+    
+    height: 450px;
+    width: 350px;
+    padding: 1.2em;
+    float: left;
+}
+
